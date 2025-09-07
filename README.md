@@ -28,8 +28,7 @@ Bem estruturado e organizado.
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://secao-de-quatro-cartoes-navy.vercel.app/)
 
 ## Meu processo
 
