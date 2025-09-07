@@ -1,0 +1,23 @@
+@media screen and (min-width: 1200px) {
+    .cards {
+        display: grid;
+        grid-template: repeat(4, auto) / repeat(3, auto);
+        column-gap:32px;
+        row-gap: 32px;
+    }
+    .card {
+        min-width: 380px;
+    }
+    .card01 {
+        grid-area: 2 / 1 / 4 / 2;
+    }
+    .card02 {
+        grid-area: -5 / -3 / -3 / -2;
+    }
+    .card03 {
+        grid-area: 3 / 2 / 5 / 3;
+    }
+    .card04 {
+        grid-area: -4 / -2 / -2 / -1;
+    }
+}
